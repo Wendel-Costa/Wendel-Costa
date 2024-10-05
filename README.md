@@ -1,4 +1,4 @@
-## Me chamo Wendel Costa, sou desenvolvedor back-end
+## Me chamo Wendel Costa, sou desenvolvedor full stack
 
 Faço o curso de Ciência e Tecnologia na Universidade Federal do Maranhão. E tenho conhecimento em Node.js, Java, Python, HTML e CSS.
 
