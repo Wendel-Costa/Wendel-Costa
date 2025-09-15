@@ -22,7 +22,9 @@ Faço o curso de Engenharia da Computação na Universidade Federal do Maranhão
 </div>
 
 <br>
-![3D Contributions](./profile-3d-contrib/profile-green-animate.svg)
+
+![3D Contributions](./profile-3d-contrib/profile-night-green.svg)
+
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wendel-Costa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
